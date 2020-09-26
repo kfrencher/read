@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">672f5743db1310106865d1b1ca961952</sp_column>
+        <sp_widget display_value="Form">fd1f4ec347730200ba13a5554ee490c0</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-21 20:57:57</sys_created_on>
+        <sys_id>cd756fc7db1310106865d1b1ca9619b0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="review" source="x_53417_review">39f1c776db5b10106865d1b1ca961925</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="review">39f1c776db5b10106865d1b1ca961925</sys_scope>
+        <sys_update_name>sp_instance_cd756fc7db1310106865d1b1ca9619b0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-21 20:57:57</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters/>
+    </sp_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=cd756fc7db1310106865d1b1ca9619b0"/>
+</record_update>
